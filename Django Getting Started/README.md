@@ -4,6 +4,8 @@ I created a virtual environment and a new django environment
 
 The procedures are as follows:
 
+Run the following commands in your terminal
+
 - py -3 -m venv myvenv // To create a virtual environment called myvenv
 
 - myvenv\scripts\activate //To activate the virtual environment
